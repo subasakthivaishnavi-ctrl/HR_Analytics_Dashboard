@@ -8,15 +8,15 @@ An interactive multi-page **Power BI** report built to analyze key human resourc
 
 ### 1. Home View (High-Level Overview)
 Provides a bird's-eye view of key workforce KPIs, gender distribution, service duration, and overall status.
-![Home View](./HR_Analytics_Dashboard/HR%20Analytics%20Dashboard_page-0001_2.jpg)
+![Home View](./HR%20Analytics%20Dashboard_page-0001.jpg)
 
 ### 2. Action View (Employee Details)
 Lists specific employees eligible for promotion or flagged for retrenchment for direct HR administrative action.
-![Action View](./HR_Analytics_Dashboard/HR%20Analytics%20Dashboard_page-0002_2.jpg)
+![Action View](./HR%20Analytics%20Dashboard_page-0002.jpg)
 
 ### 3. Detail View (Deep-Dive Insights)
 Breaks down retrenchment and promotions by department, job role, job satisfaction, overtime, and performance ratings.
-![Detail View](./HR_Analytics_Dashboard/HR%20Analytics%20Dashboard_page-0003_2.jpg)
+![Detail View](./HR%20Analytics%20Dashboard_page-0003.jpg)
 
 ---
 
@@ -51,13 +51,15 @@ Breaks down retrenchment and promotions by department, job role, job satisfactio
 ```text
 HR_Analytics_Dashboard/
 │
-├── HR Analytics Dashboard.pbix          # Power BI project file
-├── HR Analytics Dashboard.pdf           # PDF export of the entire dashboard
 ├── HR Analytics Dashboard_page-0001.jpg # Home view preview image
 ├── HR Analytics Dashboard_page-0002.jpg # Action view preview image
 ├── HR Analytics Dashboard_page-0003.jpg # Detail view preview image
-├── HR Analytics Data.csv                # Primary employee dataset
-├── HR Analytics My Ref.csv             # Reference lookup data
-├── HR employee data.csv                 # Detailed employee demographics
-├── data.csv Retrenchment.csv            # Retrenchment records
-└── data.csv prommtion.csv               # Promotion eligibility dataset
+├── README.md                            # Repository documentation
+└── HR_Analytics_Dashboard/              # Project files and data
+    ├── HR Analytics Dashboard.pbix      # Main Power BI project file
+    ├── HR Analytics Dashboard.pdf       # Full PDF report export
+    ├── HR Analytics Data.csv            # Primary employee dataset
+    ├── HR Analytics My Ref.csv         # Reference lookup dataset
+    ├── HR employee data.csv             # Employee demographics
+    ├── data.csv Retrenchment.csv        # Retrenchment records
+    └── data.csv prommtion.csv           # Promotion history dataset
