@@ -8,15 +8,15 @@ An interactive multi-page **Power BI** report built to analyze key human resourc
 
 ### 1. Home View (High-Level Overview)
 Provides a bird's-eye view of key workforce KPIs, gender distribution, service duration, and overall status.
-![Home View](./HR%20Analytics%20Dashboard_page-0001_2.jpg)
+![Home View](./HR_Analytics_Dashboard/HR%20Analytics%20Dashboard_page-0001_2.jpg)
 
 ### 2. Action View (Employee Details)
 Lists specific employees eligible for promotion or flagged for retrenchment for direct HR administrative action.
-![Action View](./HR%20Analytics%20Dashboard_page-0002_2.jpg)
+![Action View](./HR_Analytics_Dashboard/HR%20Analytics%20Dashboard_page-0002_2.jpg)
 
 ### 3. Detail View (Deep-Dive Insights)
 Breaks down retrenchment and promotions by department, job role, job satisfaction, overtime, and performance ratings.
-![Detail View](./HR%20Analytics%20Dashboard_page-0003_2.jpg)
+![Detail View](./HR_Analytics_Dashboard/HR%20Analytics%20Dashboard_page-0003_2.jpg)
 
 ---
 
